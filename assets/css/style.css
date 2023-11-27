@@ -68,19 +68,25 @@ body {
     background-color: #ffffff;
 }
 
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(../images/mainbg.png) no-repeat center center/cover;
+    position: relative;
+}
 
+#cover-text {
+    font-size: 120%;
+    position: absolute;
+    bottom: 50%;
+    width: 22%;
+    padding-left: 40%;
+    text-align: center;
+    color: rgb(128, 240, 174);
+    font-family: 'Open Sans', sans-serif;
+    filter: blur(0px)
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-foot
+footer {
+    background-color: #3a3a3a;
+}
