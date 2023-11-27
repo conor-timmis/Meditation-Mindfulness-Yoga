@@ -87,6 +87,26 @@ body {
     filter: blur(0px)
 }
 
+#social {
+    text-align: center;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social i {
+    font-size: 140%;
+    color: #3a3a3a;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+#social p {
+    color: 3a3a3a;
+    font-family: 'Open Sans', sans-serif;
+}
+
 footer {
     background-color: #3a3a3a;
 }
