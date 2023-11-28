@@ -99,6 +99,28 @@ body {
     color: #3a3a3a;
 }
 
+    #meditainer > div {
+        display: inline-block;
+        text-align: left;
+        width: 20%;
+        margin-left: 10%;
+        margin-top: 300px;
+        margin-bottom: 300px;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    #meditainer > h2 {
+        margin: 0;
+        text-align: center;
+        
+    }
+
+    #meditainer > p {
+        margin: 10px 0;
+        width: 600px;
+        height: 300px;
+    }
+
 #social {
     text-align: center;
     padding: 10px 0;
@@ -110,13 +132,13 @@ body {
 
 #social i {
     font-size: 140%;
-    color: #3a3a3a;
+    color: #7f5d53;
     padding-top: 15px;
     padding-left: 5px;
 }
 
 #social p {
-    color: #3a3a3a;
+    color: #7f5d53;
     font-family: 'Open Sans', sans-serif;
     font-weight: 500;
 }
