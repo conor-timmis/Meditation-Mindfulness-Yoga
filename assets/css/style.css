@@ -1,13 +1,14 @@
 header {
-    background-color: #ffffff;
-    padding: 0 0.5rem;
+    background-color: #d9c4b3;
+    padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 1px 1px #3a3a3a;
+    box-shadow: 0 1px 1px #7f5d53;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 header a {
@@ -17,19 +18,25 @@ header a {
     font-family: 'Open Sans', sans-serif;
 }
 
+    #logo {
+        margin-top: 0;
+        margin-left: 15%;
+    }
+
 #menu {
     font-size: 110%;
     letter-spacing: 2px;
     list-style-type: none;
+    background-color: #d9c4b3;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #7f5d53;
 }
 
 nav {
     position: relative;
-    background-color: #ffffff;
+    background-color: #d9c4b3;
     width: 100%;
     left: 20%;
     padding: 0;
@@ -51,6 +58,7 @@ nav {
 
 #menu {
     display: flex;
+    background-color: #d9c4b3;
 }
 
 #menu > li {
@@ -65,7 +73,7 @@ nav {
 body {
     display: block;
     margin: 0px;
-    background-color: #ffffff;
+    background-color: #d9c4b3;
 }
 
 #hero {
@@ -78,13 +86,17 @@ body {
 #cover-text {
     font-size: 120%;
     position: absolute;
-    bottom: 50%;
-    width: 22%;
-    padding-left: 40%;
-    text-align: center;
-    color: rgb(128, 240, 174);
+    bottom: 30px;
+    width: 40%;
+    min-height: 240px;
+    padding-top: 20px;
+    padding-left: 20px;
     font-family: 'Open Sans', sans-serif;
-    filter: blur(0px)
+}
+
+#cover-text>h2,
+#cover-text>h3 {
+    color: #3a3a3a;
 }
 
 #social {
@@ -93,6 +105,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: #d9c4b3;
 }
 
 #social i {
@@ -103,10 +116,8 @@ body {
 }
 
 #social p {
-    color: 3a3a3a;
+    color: #3a3a3a;
     font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
 }
 
-footer {
-    background-color: #3a3a3a;
-}
