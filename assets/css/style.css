@@ -5,8 +5,10 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 1px 1px #7f5d53;
-    display: flex;
+    padding: 0 1rem;
+    display: block;
     align-items: center;
+    justify-content: space-between;
 }
 
 header a {
@@ -16,20 +18,25 @@ header a {
 }
 
 header a img {
-    height: 9vh;
+    height: 5vh;
     padding: 10px 0;
 }
-
-    #logo {
-        margin-left: 15%;
-    }
 
 #menu {
     font-size: 110%;
     letter-spacing: 2px;
     list-style-type: none;
     background-color: #d9c4b3;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    flex-direction: column;
 }
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
 
 .active {
     border-bottom: 1px solid #7f5d53;
@@ -37,11 +44,14 @@ header a img {
 
 nav {
     background-color: #d9c4b3;
-    display: block;
+    display: none;
     flex-grow: 1;
+    position: absolute;
+    width: 100%;
+    left: 0;
 }
 
-#nav-toggle:checked ~ nav {
+#nav-toggle:checked~nav {
     display: block;
 }
 
@@ -51,16 +61,9 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-}
-
-#menu {
-    display: flex;
-    background-color: #d9c4b3;
-    justify-content: space-evenly;
-}
-
-.nav-toggle-label {
-    display: none;
+    float: right;
+    margin-right: 2rem;
+    line-height: 2.5;
 }
 
 body {
@@ -141,5 +144,36 @@ body {
 @media screen and (min-width: 850px) {
     #meditainer {
         flex-direction: row;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #menu {
+        font-size: 110%;
+        letter-spacing: 2px;
+        list-style-type: none;
+        background-color: #d9c4b3;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: row;
+    }
+
+    #menu li {
+        margin: 0;
+    }
+
+    nav {
+        display: block;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    header a img {
+        height: 6vh;
+        display: block;
+        margin: 0 auto;
     }
 }
