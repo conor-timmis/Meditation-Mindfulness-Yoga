@@ -104,6 +104,7 @@ body {
     #meditainer > div {
         margin: 1em;
         font-family: 'Open Sans', sans-serif;
+        width: 33%;
     }
 
     #meditainer > h2 {
