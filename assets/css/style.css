@@ -102,7 +102,7 @@ body {
     #meditainer {
         display: flex;
         flex-direction: column;
-        margin: 2em;
+        margin: 4em;
     }
 
     #meditainer > div {
@@ -122,6 +122,7 @@ body {
         max-width: 600px;
         height: 300px;
     }
+
 
 #social {
     text-align: center;
