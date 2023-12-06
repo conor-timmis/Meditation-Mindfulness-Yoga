@@ -99,6 +99,10 @@ body {
     color: #3a3a3a;
 }
 
+    #meditation {
+        margin-top: 90px;
+    }
+
     #meditainer {
         display: flex;
         flex-direction: column;
@@ -121,6 +125,11 @@ body {
         margin: 10px 0;
         max-width: 600px;
         height: 300px;
+    }
+
+    #mindfulness {
+        background-color: #faaa9f;
+        margin-top: 90px;
     }
 
     #mindtainer {
@@ -172,6 +181,9 @@ body {
 
 @media screen and (min-width: 850px) {
     #meditainer {
+        flex-direction: row;
+    }
+    #mindtainer {
         flex-direction: row;
     }
 }
