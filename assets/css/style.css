@@ -99,6 +99,18 @@ body {
     color: #3a3a3a;
 }
 
+    h1 {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        margin: 3em;
+    }
+
+
+    #meditation, #mindfulness, #yoga {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+
     #meditainer {
         display: flex;
         flex-direction: column;
@@ -213,12 +225,12 @@ body {
         display: block;
         margin: 0 auto;
     }
-    #meditation {
+    #meditation, #mindfulness, #yoga {
         padding-top: 90px;
         padding-bottom: 90px;
     }
-    #mindfulness {
-        padding-top: 90px;
-        padding-bottom: 90px;
+    #meditation, #mindfulness, #yoga > div {
+        justify-content: space-evenly;
     }
+
 }
