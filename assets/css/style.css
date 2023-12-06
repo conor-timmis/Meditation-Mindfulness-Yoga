@@ -102,13 +102,13 @@ body {
     #meditainer {
         display: flex;
         flex-direction: column;
-        margin: 1em;
+        margin: 2em;
     }
 
     #meditainer > div {
         margin: 1em;
         font-family: 'Open Sans', sans-serif;
-        width: 33%;
+        width: 100%;
     }
 
     #meditainer > h2 {
@@ -119,7 +119,7 @@ body {
 
     #meditainer > p {
         margin: 10px 0;
-        width: 600px;
+        max-width: 600px;
         height: 300px;
     }
 
