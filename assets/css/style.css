@@ -124,7 +124,7 @@ body {
     }
 
 
-    #meditation, #mindfulness, #yoga {
+    #meditation, #mindfulness, #yoga, #contact {
         padding-top: 45px;
         padding-bottom: 45px;
     }
@@ -276,5 +276,8 @@ body {
     #meditation, #mindfulness, #yoga > div {
         justify-content: space-evenly;
     }
-    
+    #contact {
+        padding-top: 180px;
+        padding-bottom: 180px;
+    }
 }
