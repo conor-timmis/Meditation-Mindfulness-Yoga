@@ -102,18 +102,33 @@ body {
 .signup-form {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 input {
-    width: 75%;
+    width: 25%;
     margin: 0 auto;
     border: 1px solid #7f5d53;
     border-radius: 2px;
+    margin-bottom: 15px;
+}
+
+.signup-form > h4 {
+    font-style: italic;
+}
+
+label {
+    font-style: normal;
+    margin-bottom: 5px;
 }
 
 #description {
-    padding: 24px;
+    font-style: normal;
+    padding: 58px;
     box-sizing: border-box;
+    max-width: 600px;
+    resize:none;
+    margin-bottom: 15px;
 }
 
 #cover-text {
