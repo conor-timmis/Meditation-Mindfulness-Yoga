@@ -83,6 +83,13 @@ body {
     position: relative;
 }
 
+#contacthero {
+    height: 650px;
+    width: 100%;
+    background: url(../images/contact.png) no-repeat center center/cover;
+    position: relative;
+}
+
 #cover-text {
     font-size: 120%;
     position: absolute;
