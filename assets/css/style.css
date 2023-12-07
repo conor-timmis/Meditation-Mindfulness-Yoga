@@ -103,6 +103,7 @@ body {
         font-family: 'Open Sans', sans-serif;
         font-weight: 300;
         margin: 3em;
+        color: #7f5d53;
     }
 
 
@@ -137,7 +138,6 @@ body {
 
     #mindfulness {
         background-color: #faaa9f;
-        margin-top: 90px;
     }
 
     #mindtainer {
@@ -159,6 +159,30 @@ body {
     }
 
     #mindtainer > p {
+        margin: 10px 0;
+        max-width: 600px;
+        height: 300px;
+    }
+
+    #yogatainer {
+        display: flex;
+        flex-direction: column;
+        margin: 4em;
+    }
+
+    #yogatainer > div {
+        margin: 1em;
+        font-family: 'Open Sans', sans-serif;
+        width: 100%;
+    }
+
+    #yogatainer > h2 {
+        margin: 0;
+        text-align: center;
+        
+    }
+
+    #yogatainer > p {
         margin: 10px 0;
         max-width: 600px;
         height: 300px;
@@ -192,6 +216,9 @@ body {
         flex-direction: row;
     }
     #mindtainer {
+        flex-direction: row;
+    }
+    #yogatainer {
         flex-direction: row;
     }
 }
@@ -232,5 +259,5 @@ body {
     #meditation, #mindfulness, #yoga > div {
         justify-content: space-evenly;
     }
-
+    
 }
