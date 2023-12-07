@@ -92,12 +92,28 @@ body {
 
 #contact {
     font-family: 'Open Sans', sans-serif;
-
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 0 5px #7f5d53;
+    margin-top: 2em;
 }
 
-#form-text {
+.signup-form {
     display: flex;
     flex-direction: column;
+}
+
+input {
+    width: 75%;
+    margin: 0 auto;
+    border: 1px solid #7f5d53;
+    border-radius: 2px;
+}
+
+#description {
+    padding: 24px;
+    box-sizing: border-box;
 }
 
 #cover-text {
