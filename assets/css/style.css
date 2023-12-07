@@ -90,6 +90,11 @@ body {
     position: relative;
 }
 
+#contact {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
 #cover-text {
     font-size: 120%;
     position: absolute;
