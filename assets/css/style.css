@@ -92,7 +92,12 @@ body {
 
 #contact {
     font-family: 'Open Sans', sans-serif;
-    
+
+}
+
+#form-text {
+    display: flex;
+    flex-direction: column;
 }
 
 #cover-text {
