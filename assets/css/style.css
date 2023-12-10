@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-  }
+}
 
 header {
     background-color: #d9c4b3;
@@ -75,7 +75,7 @@ body {
     background-color: #d9c4b3;
 }
 
-p { 
+p {
     width: 100%;
 }
 
@@ -116,7 +116,7 @@ input {
     margin-bottom: 15px;
 }
 
-.signup-form > h4 {
+.signup-form>h4 {
     font-style: italic;
 }
 
@@ -130,7 +130,7 @@ label {
     padding: 58px;
     box-sizing: border-box;
     max-width: 600px;
-    resize:none;
+    resize: none;
     margin-bottom: 15px;
 }
 
@@ -150,100 +150,103 @@ label {
     color: #7f5d53;
 }
 
-    h1 {
-        font-family: 'Open Sans', sans-serif;
-        font-weight: 300;
-        margin: 3em;
-        color: #7f5d53;
-    }
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    margin: 3em;
+    color: #7f5d53;
+}
 
 
-    #meditation, #mindfulness, #yoga, #contact {
-        padding-top: 45px;
-        padding-bottom: 45px;
-    }
+#meditation,
+#mindfulness,
+#yoga,
+#contact {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
 
-    #meditainer {
-        display: flex;
-        flex-direction: column;
-        margin: 4em;
-    }
+#meditainer {
+    display: flex;
+    flex-direction: column;
+    margin: 4em;
+}
 
-    #meditainer > div {
-        margin: 1em;
-        font-family: 'Open Sans', sans-serif;
-        width: 100%;
-    }
+#meditainer>div {
+    margin: 1em;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+}
 
-    #meditainer > h2 {
-        margin: 0;
-        text-align: center;
-        
-    }
+#meditainer>h2 {
+    margin: 0;
+    text-align: center;
 
-    #meditainer > p {
-        margin: 10px 0;
-        max-width: 600px;
-        height: 300px;
-    }
+}
 
-    #mindfulness {
-        background-color: #faaa9f;
-    }
+#meditainer>p {
+    margin: 10px 0;
+    max-width: 600px;
+    height: 300px;
+}
 
-    #mindtainer {
-        display: flex;
-        flex-direction: column;
-        margin: 4em;
-    }
+#mindfulness {
+    background-color: #faaa9f;
+}
 
-    #mindtainer > div {
-        margin: 1em;
-        font-family: 'Open Sans', sans-serif;
-        width: 100%;
-    }
+#mindtainer {
+    display: flex;
+    flex-direction: column;
+    margin: 4em;
+}
 
-    #mindtainer > h2 {
-        margin: 0;
-        text-align: center;
-        
-    }
+#mindtainer>div {
+    margin: 1em;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+}
 
-    #mindtainer > p {
-        margin: 10px 0;
-        max-width: 600px;
-        height: 300px;
-    }
+#mindtainer>h2 {
+    margin: 0;
+    text-align: center;
 
-    #yogatainer {
-        display: flex;
-        flex-direction: column;
-        margin: 4em;
-    }
+}
 
-    #yogatainer > div {
-        margin: 1em;
-        font-family: 'Open Sans', sans-serif;
-        width: 100%;
-    }
+#mindtainer>p {
+    margin: 10px 0;
+    max-width: 600px;
+    height: 300px;
+}
 
-    #yogatainer > h2 {
-        margin: 0;
-        text-align: center;
-        
-    }
+#yogatainer {
+    display: flex;
+    flex-direction: column;
+    margin: 4em;
+}
 
-    #yogatainer > p {
-        margin: 10px 0;
-        max-width: 600px;
-        height: 300px;
-    }
+#yogatainer>div {
+    margin: 1em;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+}
 
-    .video-playback {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+#yogatainer>h2 {
+    margin: 0;
+    text-align: center;
+
+}
+
+#yogatainer>p {
+    margin: 10px 0;
+    max-width: 600px;
+    height: 300px;
+}
+
+.video-playback {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 #social {
     text-align: center;
@@ -272,9 +275,11 @@ label {
     #meditainer {
         flex-direction: row;
     }
+
     #mindtainer {
         flex-direction: row;
     }
+
     #yogatainer {
         flex-direction: row;
     }
@@ -311,13 +316,20 @@ label {
         display: block;
         margin: 0 auto;
     }
-    #meditation, #mindfulness, #yoga {
+
+    #meditation,
+    #mindfulness,
+    #yoga {
         padding-top: 90px;
         padding-bottom: 90px;
     }
-    #meditation, #mindfulness, #yoga > div {
+
+    #meditation,
+    #mindfulness,
+    #yoga>div {
         justify-content: space-evenly;
     }
+
     #contact {
         padding-top: 90px;
         padding-bottom: 90px;
@@ -332,23 +344,29 @@ label {
 }
 
 @media screen and (max-width: 850px) {
-    p { 
+    p {
         width: 100%;
         font-size: 14px;
     }
 
-    h1, h2, h3 {
+    h1,
+    h2,
+    h3 {
         width: 100%;
     }
+
     iframe {
         width: 100%;
     }
+
     #meditainer {
         max-width: 700px;
     }
+
     #mindtainer {
         max-width: 700px;
     }
+
     #yogatainer {
         max-width: 700px;
     }
@@ -359,12 +377,15 @@ label {
         width: 100%;
         font-size: 14px;
     }
+
     #meditainer {
         max-width: 875px;
     }
+
     #mindtainer {
         max-width: 875px;
     }
+
     #yogatainer {
         max-width: 875px;
     }
