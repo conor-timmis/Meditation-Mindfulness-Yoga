@@ -293,7 +293,17 @@ h3 {
     font-weight: 500;
 }
 
-@media screen and (min-width: 850px) {
+@media screen and (max-width: 480px) {
+    #meditainer,
+    #mindtainer,
+    #yogatainer {
+        grid-template-columns: 1fr;
+
+@media screen and (max-width: 660px) {
+
+    .video-playback {
+        width: fit-content;
+    }
     #meditainer {
         flex-direction: row;
     }
@@ -304,13 +314,6 @@ h3 {
 
     #yogatainer {
         flex-direction: row;
-    }
-}
-
-@media screen and (max-width: 660px) {
-
-    .video-playback {
-        width: fit-content;
     }
 }
 
@@ -365,7 +368,7 @@ h3 {
     }
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (min-width: 850px) {
     p {
         width: 100%;
         font-size: 14px;
