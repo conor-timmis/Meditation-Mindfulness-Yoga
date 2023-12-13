@@ -150,7 +150,7 @@ label {
     border-radius: 20px;
 }
 
-#cover-text > h2, h3 {
+#cover-text > h2 {
     color: #ffffff;
 }
 
@@ -177,11 +177,12 @@ h1, h2, h3 {
 #meditainer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    flex-direction: column;
+    grid-gap: 10px
 }
 
 #meditainer>div {
     font-family: 'Open Sans', sans-serif;
+    max-width: 100%;
 }
 
 #meditainer>h2 {
@@ -247,8 +248,9 @@ h1, h2, h3 {
     justify-content: space-evenly;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    font-size: 14px;
+    margin-left: 10px;
 }
-
 
 .video-playback {
     max-width: 100%;
