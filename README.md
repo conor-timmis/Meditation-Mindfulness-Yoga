@@ -107,3 +107,17 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
     - As I'm not an expert in these subjects, just experienced, I would like to go over some related tips in another page that wouldn't necessarily be relevant to be in the "Intermediate Page" (or higher) but this page would serve as a self improvement page generally, things you can add to your daily life to help you along the way
 - My Own Blog Page
     - I've enjoyed being able to write my own experiences (briefly) around the site and even in the README, so I'd like to even be able to post on-site and make non-personal social media accounts about the subjects, and go into way more detail about everything going on
+
+
+## Tools & Technologies Used
+
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
+- [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
+- [Python](https://www.python.org) used as the back-end programming language.
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
+- [GitHub](https://github.com) used for secure online code storage.
+- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
+- [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
+
