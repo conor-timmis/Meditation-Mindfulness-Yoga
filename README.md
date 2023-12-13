@@ -9,3 +9,11 @@ With my Page, I'm trying to introduce all of my topics to the user. As someone w
 ## UX
 
 My design process behind the page was to keep it short and simple, as I wanted to introduce plenty of description but not in terms of learning. I wanted to go over each topic individually with cold hard facts and lead up with anecdotal experiences of mine with them in correspodence. I originally wanted to write entire pages based on each topic but I felt this was actually too much for an "introduction" and it may lose the interest of the user, so instead I went with a one-page site that will help gauge interest by quickly being able to access each subject. I did this because reading an entire page with the potential of the user backing out if they were not interested would mean they would leave entirely, and wanted to assure that their time was not heavily used and would give them a brief overview of each instead.
+
+### Colour Scheme
+
+My colour scheme is a bit of mix and match towards the hero image, I have chosen these colours in particular because they give off a more natural feel when it comes to the aesthetics of the page. I feel anyone looking at the colour scheme would appreciate the same approach I have taken when it comes to these particular subjects, generally, the aim was always to keep it earthy and peaceful. It so happened that I found a perfect fit for the hero image.
+
+- `#7F5D53` used for primary text.
+- `#D9C4B3` used for primary background colour.
+- `#FAAA9F` used for logo & hero image reference, mainly used in the mindfulness section.
