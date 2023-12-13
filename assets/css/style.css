@@ -2,11 +2,13 @@ html {
     scroll-behavior: smooth;
 }
 
+/* header and nav */
+
 header {
     background-color: #d9c4b3;
     padding: 0 1rem;
     position: fixed;
-    z-index: 99;
+    z-index: 999;
     width: 100%;
     box-shadow: 0 1px 1px #7f5d53;
     display: block;
@@ -72,6 +74,8 @@ nav {
 section>div {
     margin: 0 1em;
 }
+
+/* Body */
 
 body {
     display: block;
@@ -139,12 +143,6 @@ label {
     margin-bottom: 15px;
 }
 
-#confirmation {
-    font-family: 'Open Sans', sans-serif;
-    text-align: center;
-    margin-top: 100px;
-}
-
 #cover-text {
     font-size: 120%;
     position: absolute;
@@ -174,6 +172,7 @@ h3 {
     text-align: center;
 }
 
+/* Containers of Sections */
 
 #meditation,
 #mindfulness,
@@ -186,7 +185,7 @@ h3 {
 #meditainer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px
+    grid-gap: 10px;
 }
 
 #meditainer>div {
@@ -263,12 +262,16 @@ h3 {
     margin-left: 10px;
 }
 
+/* Video/iFrame */
+
 .video-playback {
     max-width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Footer Elements */
 
 #social {
     text-align: center;
@@ -293,11 +296,23 @@ h3 {
     font-weight: 500;
 }
 
+/* Confirmation Page */
+
+#confirmation {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Media Query */
+
 @media screen and (max-width: 480px) {
     #meditainer,
     #mindtainer,
     #yogatainer {
         grid-template-columns: 1fr;
+    }
+}
 
 @media screen and (max-width: 660px) {
 
@@ -318,11 +333,12 @@ h3 {
         display: flex;
         justify-content: space-evenly;
         align-items: center;
-        flex-direction: row;
+        flex-direction: row !important;
         padding: 0;
         padding-bottom: 5px;
+        margin: 0;
     }
-
+    
     #menu li {
         margin: 0;
     }
