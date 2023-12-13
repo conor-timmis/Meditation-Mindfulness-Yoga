@@ -76,3 +76,19 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
 
 - Contact us page
 
+
+### Existing Features
+
+- **Navigation Bar**
+
+    - I have created a fully working navigation bar, which smooth-scrolls between the sections on the main page, as well as navigate between the Index & Contact pages
+ 
+
+- **Footer**
+
+    - The footer makes the end of the page a lot more cleaner and holds the social media icons with corresponding links to each of my own
+
+ 
+  - **Contact Form**
+
+    - I have created a contact form for the user to be able to get in contact with me with their questions or even issues which helps with user experience once they've taken in the information beforehand
