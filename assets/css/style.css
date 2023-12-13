@@ -139,6 +139,12 @@ label {
     margin-bottom: 15px;
 }
 
+#confirmation {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
 #cover-text {
     font-size: 120%;
     position: absolute;
