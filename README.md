@@ -121,6 +121,11 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 
+## Testing
+
+
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
+
 
 ## Deployment
 
@@ -160,6 +165,7 @@ A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/conf
 
 
 #### Forking
+
 
 By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
 You can fork this repository by using the following steps:
