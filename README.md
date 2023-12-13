@@ -167,3 +167,23 @@ You can fork this repository by using the following steps:
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/conor-timmis/Timmys)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
+
+### Local VS Deployment
+
+
+There are no major differences between the local and deployed versions.
+
+
+## Credits
+
+
+- The content of my website relating to the subjects I have talked about were written by myself with the knowledge I have on the subjects, though I am no professional at these I just have some varied experience
+- The media I have used has came from 2 different sources, I have listed them below:
+- Meditation Video with thanks to [The Mindful Movement](https://www.youtube.com/@TheMindfulMovement)
+- Mindfulness Video with thanks to [Psych Hub](https://www.youtube.com/@PsychHub)
+
+Below I will list the extra help sources I have had along the way:
+- My friend [Brad Playdon](https://github.com/bradleyplaydon) when I was stuck trying to fix certain errors along the way
+- My Mentor [Tim Nelson](https://github.com/TravelTimN) especially with Responsiveness on the page
+- Generally [w3schools](https://www.w3schools.com/) if I was lost with which CSS Styles to use as I found it hard to grasp & remember initially with very split work weeks
