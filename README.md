@@ -199,3 +199,11 @@ Below I will list the extra help sources I have had along the way:
 - [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3) | initial footer/header ideas | responsive and clean layout |
 
 
+### Media
+
+
+- [Font Awesome](https://fontawesome.com/) | index & contact pages | icon | Icon for Navbar, headers of paragraphs & footer |
+- [Flaticon](https://www.flaticon.com/free-icon/pebbles_3752894?term=pebbles&page=1&position=26&origin=tag&related_id=3752894) | index & contact pages | image | favicon & logo on all pages |
+- [Hero Image](https://www.pexels.com/photo/unrecognizable-hiker-recreating-near-alpine-lake-during-sunset-4032759/) | index & contact pages | image | hero image background |
+
+
