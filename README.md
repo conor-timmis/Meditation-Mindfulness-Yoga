@@ -19,3 +19,14 @@ My colour scheme is a bit of mix and match towards the hero image, I have chosen
 - `#FAAA9F` used for logo & hero image reference, mainly used in the mindfulness section.
 
 ![screenshot](documentation/colourscheme.png)
+
+
+### Typography
+
+
+I have used the font "Open Sans" throughout and consistently in my project, and no other fonts have been used other than Sans-Serif to fallback on. I have chosen this font because I believe it fits very cleanly in the website and I find it to be one of the easier fonts to read all round, it isn't too sharp or blocky like most fonts I browsed. It also seemed to fit in every situation (e.g headers and paragraphs) cleanly with no issues looks very good. I have also decided to use Font Awesome because they provide a lot of useful icons I could use with my Headers to bring more attention to the page, just by using a simple script in my code and making use of their copy/paste icons it seemed to fit perfectly well in my website. I had originally thought of using different fonts (eg. Calibri, Roboto to name a couple) but overall it came down to just using Open Sans and the use of Font Awesome that totally had me in the end.
+
+
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans) is my choice of font for the primary headers and titles.
+
+- [Font Awesome](https://fontawesome.com) icons were used throughout the site, as the burger menu icon, footer social media icons & headers throughout the sections.
