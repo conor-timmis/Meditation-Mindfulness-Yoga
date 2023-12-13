@@ -17,3 +17,5 @@ My colour scheme is a bit of mix and match towards the hero image, I have chosen
 - `#7F5D53` used for primary text.
 - `#D9C4B3` used for primary background colour.
 - `#FAAA9F` used for logo & hero image reference, mainly used in the mindfulness section.
+
+![screenshot](documentation/colourscheme.png)
