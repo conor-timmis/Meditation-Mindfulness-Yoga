@@ -41,7 +41,7 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
   - [Index](documentation/wireframes/mobileindex.png)
 
   - [Contact](documentation/wireframes/mobilecontact.png)
-  - 
+    
 
 ### Tablet Wireframes
 
