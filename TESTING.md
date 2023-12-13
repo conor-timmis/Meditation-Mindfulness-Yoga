@@ -44,7 +44,8 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-- Mobile (DevTools) | [Home](documentation/responsiveness/responsive/mobilehome.png) | [Contact](documentation/responsiveness/responsive/mobilecontact.png) Works as expected                             - Tablet (DevTools) | [Home](documentation/responsiveness/responsive/tablethome.png) | [Contact](documentation/responsiveness/responsive/tabletcontact.png) Works as expected
+- Mobile (DevTools) | [Home](documentation/responsiveness/responsive/mobilehome.png) | [Contact](documentation/responsiveness/responsive/mobilecontact.png) Works as expected
+- Tablet (DevTools) | [Home](documentation/responsiveness/responsive/tablethome.png) | [Contact](documentation/responsiveness/responsive/tabletcontact.png) Works as expected
 - Desktop | [Home](documentation/responsiveness/desktophome.png) | ![Contact](documentation/responsiveness/desktopcontact.png) Works as expected
 - XL Monitor | [Home](documentation/responsiveness/xlhome.png) | [Contact](documentation/responsiveness/xlcontact.png) Works as intended
 - 4K Monitor | [Home](documentation/responsiveness/4khome) | [Contact](documentation/responsiveness/4kcontact) Noticeable scaling issues
