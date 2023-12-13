@@ -304,15 +304,7 @@ h3 {
     .video-playback {
         width: fit-content;
     }
-    #meditainer {
-        flex-direction: row;
-    }
-
-    #mindtainer {
-        flex-direction: row;
-    }
-
-    #yogatainer {
+    #meditainer, #mindtainer, #yogatainer {
         flex-direction: row;
     }
 }
