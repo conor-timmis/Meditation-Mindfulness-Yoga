@@ -57,3 +57,22 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
   - [Contact](documentation/wireframes/desktopcontact.png)
 
 
+## Features
+
+
+- Navigation bar at the top of screen, with the website logo that brings you to the homepage.
+
+- Mobile friendly navigation bar with burger drop-down menu
+
+- Responsive on mobile and desktop devices
+
+- Interactive buttons
+
+- Content of personal experiences and advice for Meditation, Mindfulness and Yoga
+
+- Informative videos for the corresponding subjects
+
+- Social links in footer
+
+- Contact us page
+
