@@ -27,4 +27,14 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
 - Style Sheet [Jigsaw Page](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fconor-timmis.github.io%2FTimmys%2F&usermedium=all&vextwarning=&warning=1) | ![screenshot](documentation/testing/csscheck.png) | No errors found. |
+- 
+
+## Browser Compatibility
+
+
+I've tested my deployed project on multiple browsers to check for compatibility issues.
+
+- Firefox ![screenshot](documentation/compatibility/firefoxindex.png) | ![screenshot](documentation/compatibility/firefoxcontact.png) | Works as expected |
+- Chrome | ![screenshot](documentation/compatibility/chromeindex.png) | ![screenshot](documentation/compatibility/chromecontact.png) | Shows minor errors (no autocomplete attribute on contact form) and JS errors from iFrames |
+- Edge | ![screenshot](documentation/compatibility/edgeindex.png) | ![screenshot](documentation/compatibility/edgecontact.png) | Works as expected, though shows tracking errors from Google (iFrames) |
 
