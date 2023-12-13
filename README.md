@@ -96,3 +96,14 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
     - I have created a contact form for the user to be able to get in contact with me with their questions or even issues which helps with user experience once they've taken in the information beforehand
 
 ![screenshot](documentation/contactform.png)
+
+
+### Future Features
+
+
+- Intermediate Page
+    - Once the original content of the site has been used as a foundation, it would be great if the user could experience a higher level of content to go along with their journey here
+- Extras Page
+    - As I'm not an expert in these subjects, just experienced, I would like to go over some related tips in another page that wouldn't necessarily be relevant to be in the "Intermediate Page" (or higher) but this page would serve as a self improvement page generally, things you can add to your daily life to help you along the way
+- My Own Blog Page
+    - I've enjoyed being able to write my own experiences (briefly) around the site and even in the README, so I'd like to even be able to post on-site and make non-personal social media accounts about the subjects, and go into way more detail about everything going on
