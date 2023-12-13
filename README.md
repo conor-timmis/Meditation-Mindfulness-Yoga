@@ -121,3 +121,18 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 
+
+## Deployment
+
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+
+- In the [GitHub repository](https://github.com/conor-timmis/Timmys), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://conor-timmis.github.io/Timmys)
+
+
+### Local Deployment
+
+This project can be cloned or forked in order to make a local copy on your own system.
