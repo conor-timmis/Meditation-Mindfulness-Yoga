@@ -38,10 +38,22 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
 
 ### Mobile Wireframes
 
+  - [Index](documentation/wireframes/mobileindex.png)
 
+  - [Contact](documentation/wireframes/mobilecontact.png)
+  - 
 
 ### Tablet Wireframes
 
+  - [Index](documentation/wireframes/tabletindex.png)
+
+  - [Contact](documentation/wireframes/tabletcontact.png)
 
 
 ### Desktop Wireframes
+
+  - [Index](documentation/wireframes/desktopindex.png)
+
+  - [Contact](documentation/wireframes/desktopcontact.png)
+
+
