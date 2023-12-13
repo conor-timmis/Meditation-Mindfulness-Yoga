@@ -30,3 +30,18 @@ I have used the font "Open Sans" throughout and consistently in my project, and 
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans) is my choice of font for the primary headers and titles.
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, as the burger menu icon, footer social media icons & headers throughout the sections.
+
+
+## Wireframes
+
+To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes. I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes, though they may differ from the end result of the pages, as I have had to change things here and there to improve user experience.
+
+### Mobile Wireframes
+
+
+
+### Tablet Wireframes
+
+
+
+### Desktop Wireframes
