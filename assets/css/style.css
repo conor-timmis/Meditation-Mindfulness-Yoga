@@ -69,6 +69,10 @@ nav {
     line-height: 2.5;
 }
 
+section > div {
+    margin: 0 1em;
+}
+
 body {
     display: block;
     margin: 0px;
@@ -140,14 +144,14 @@ label {
     bottom: 30px;
     width: 40%;
     min-height: 240px;
-    padding-top: 20px;
-    padding-left: 20px;
     font-family: 'Open Sans', sans-serif;
+    padding: 20px;
+    background-color: rgba(127, 93, 83, 0.75);
+    border-radius: 20px;
 }
 
-#cover-text>h2,
-#cover-text>h3 {
-    color: #7f5d53;
+#cover-text > h2 {
+    color: #ffffff;
 }
 
 h1 {
@@ -155,6 +159,10 @@ h1 {
     font-weight: 300;
     margin: 3em;
     color: #7f5d53;
+}
+
+h1, h2, h3 {
+    align-text: center; 
 }
 
 
@@ -167,15 +175,13 @@ h1 {
 }
 
 #meditainer {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     flex-direction: column;
-    margin: 4em;
 }
 
 #meditainer>div {
-    margin: 1em;
     font-family: 'Open Sans', sans-serif;
-    width: 100%;
 }
 
 #meditainer>h2 {
@@ -197,13 +203,12 @@ h1 {
 #mindtainer {
     display: flex;
     flex-direction: column;
-    margin: 4em;
+    display: grid;
 }
 
 #mindtainer>div {
     margin: 1em;
     font-family: 'Open Sans', sans-serif;
-    width: 100%;
 }
 
 #mindtainer>h2 {
@@ -221,13 +226,11 @@ h1 {
 #yogatainer {
     display: flex;
     flex-direction: column;
-    margin: 4em;
 }
 
 #yogatainer>div {
     margin: 1em;
     font-family: 'Open Sans', sans-serif;
-    width: 100%;
 }
 
 #yogatainer>h2 {
@@ -237,12 +240,18 @@ h1 {
 }
 
 #yogatainer>p {
-    margin: 10px 0;
-    max-width: 600px;
     height: 300px;
 }
 
+#mindtainer, #meditainer, #yogatainer {
+    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+
 .video-playback {
+    max-width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -282,6 +291,13 @@ h1 {
 
     #yogatainer {
         flex-direction: row;
+    }
+}
+
+@media screen and (max-width: 660px) {
+
+    .video-playback {
+        width: fit-content;
     }
 }
 
@@ -336,40 +352,16 @@ h1 {
     }
 }
 
-@media screen and (max-width: 660px) {
-
-    .video-playback {
-        width: fit-content;
-    }
-}
-
 @media screen and (max-width: 850px) {
     p {
         width: 100%;
         font-size: 14px;
     }
 
-    h1,
-    h2,
-    h3 {
-        width: 100%;
-    }
-
     iframe {
         width: 100%;
     }
 
-    #meditainer {
-        max-width: 700px;
-    }
-
-    #mindtainer {
-        max-width: 700px;
-    }
-
-    #yogatainer {
-        max-width: 700px;
-    }
 }
 
 @media screen and (max-width: 992px) {
@@ -378,15 +370,4 @@ h1 {
         font-size: 14px;
     }
 
-    #meditainer {
-        max-width: 875px;
-    }
-
-    #mindtainer {
-        max-width: 875px;
-    }
-
-    #yogatainer {
-        max-width: 875px;
-    }
 }
