@@ -49,3 +49,13 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 - Desktop | [Home](documentation/responsiveness/desktophome.png) | ![Contact](documentation/responsiveness/desktopcontact.png) Works as expected
 - XL Monitor | [Home](documentation/responsiveness/xlhome.png) | [Contact](documentation/responsiveness/xlcontact.png) Works as intended
 - 4K Monitor | [Home](documentation/responsiveness/4khome) | [Contact](documentation/responsiveness/4kcontact) Noticeable scaling issues
+
+
+## Lighthouse Audit
+
+
+I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+
+- Home | [Desktop](documentation/audit/desktophome.png) | [Mobile](documentation/audit/mobilehome.png) Desktop minor warnings, mobile has major warnings
+- Contact | [Desktop](documentation/audit/desktopcontact.png) | [Mobile](documentation/audit/mobilecontact.png) Few minor warnings for both versions
+- Confirmation | [Desktop](documentation/audit/desktopconfirmation.png) | [Mobile](documentation/audit/mobileconfirmation.png) Few minor issues regarding accessibility (only accessible by submitting form on Contact) 
