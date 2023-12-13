@@ -17,3 +17,78 @@ My colour scheme is a bit of mix and match towards the hero image, I have chosen
 - `#7F5D53` used for primary text.
 - `#D9C4B3` used for primary background colour.
 - `#FAAA9F` used for logo & hero image reference, mainly used in the mindfulness section.
+
+![screenshot](documentation/colourscheme.png)
+
+
+### Typography
+
+
+I have used the font "Open Sans" throughout and consistently in my project, and no other fonts have been used other than Sans-Serif to fallback on. I have chosen this font because I believe it fits very cleanly in the website and I find it to be one of the easier fonts to read all round, it isn't too sharp or blocky like most fonts I browsed. It also seemed to fit in every situation (e.g headers and paragraphs) cleanly with no issues looks very good. I have also decided to use Font Awesome because they provide a lot of useful icons I could use with my Headers to bring more attention to the page, just by using a simple script in my code and making use of their copy/paste icons it seemed to fit perfectly well in my website. I had originally thought of using different fonts (eg. Calibri, Roboto to name a couple) but overall it came down to just using Open Sans and the use of Font Awesome that totally had me in the end.
+
+
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans) is my choice of font for the primary headers and titles.
+
+- [Font Awesome](https://fontawesome.com) icons were used throughout the site, as the burger menu icon, footer social media icons & headers throughout the sections.
+
+
+## Wireframes
+
+To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes. I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes, though they may differ from the end result of the pages, as I have had to change things here and there to improve user experience.
+
+### Mobile Wireframes
+
+  - [Index](documentation/wireframes/mobileindex.png)
+
+  - [Contact](documentation/wireframes/mobilecontact.png)
+    
+
+### Tablet Wireframes
+
+  - [Index](documentation/wireframes/tabletindex.png)
+
+  - [Contact](documentation/wireframes/tabletcontact.png)
+
+
+### Desktop Wireframes
+
+  - [Index](documentation/wireframes/desktopindex.png)
+
+  - [Contact](documentation/wireframes/desktopcontact.png)
+
+
+## Features
+
+
+- Navigation bar at the top of screen, with the website logo that brings you to the homepage.
+
+- Mobile friendly navigation bar with burger drop-down menu
+
+- Responsive on mobile and desktop devices
+
+- Interactive buttons
+
+- Content of personal experiences and advice for Meditation, Mindfulness and Yoga
+
+- Informative videos for the corresponding subjects
+
+- Social links in footer
+
+- Contact us page
+
+
+### Existing Features
+
+- **Navigation Bar**
+
+    - I have created a fully working navigation bar, which smooth-scrolls between the sections on the main page, as well as navigate between the Index & Contact pages
+ 
+
+- **Footer**
+
+    - The footer makes the end of the page a lot more cleaner and holds the social media icons with corresponding links to each of my own
+
+ 
+- **Contact Form**
+
+    - I have created a contact form for the user to be able to get in contact with me with their questions or even issues which helps with user experience once they've taken in the information beforehand
