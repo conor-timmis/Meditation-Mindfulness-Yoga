@@ -27,7 +27,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
 - Style Sheet [Jigsaw Page](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fconor-timmis.github.io%2FTimmys%2F&usermedium=all&vextwarning=&warning=1) | ![screenshot](documentation/testing/csscheck.png) | No errors found. |
-- 
+
 
 ## Browser Compatibility
 
