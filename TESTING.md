@@ -38,3 +38,13 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 - Chrome | ![screenshot](documentation/compatibility/chromeindex.png) | ![screenshot](documentation/compatibility/chromecontact.png) | Shows minor errors (no autocomplete attribute on contact form) and JS errors from iFrames |
 - Edge | ![screenshot](documentation/compatibility/edgeindex.png) | ![screenshot](documentation/compatibility/edgecontact.png) | Works as expected, though shows tracking errors from Google (iFrames) |
 
+
+## Responsiveness
+
+
+I've tested my deployed project on multiple devices to check for responsiveness issues.
+
+- Mobile (DevTools) | [Home](documentation/responsiveness/responsive/mobilehome.png) | [Contact](documentation/responsiveness/responsive/mobilecontact.png) Works as expected                             - Tablet (DevTools) | [Home](documentation/responsiveness/responsive/tablethome.png) | [Contact](documentation/responsiveness/responsive/tabletcontact.png) Works as expected
+- Desktop | [Home](documentation/responsiveness/desktophome.png) | ![Contact](documentation/responsiveness/desktopcontact.png) Works as expected
+- XL Monitor | [Home](documentation/responsiveness/xlhome.png) | [Contact](documentation/responsiveness/xlcontact.png) Works as intended
+- 4K Monitor | [Home](documentation/responsiveness/4khome) | [Contact](documentation/responsiveness/4kcontact) Noticeable scaling issues
