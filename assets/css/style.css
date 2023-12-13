@@ -150,7 +150,7 @@ label {
     border-radius: 20px;
 }
 
-#cover-text > h2 {
+#cover-text > h2, h3 {
     color: #ffffff;
 }
 
