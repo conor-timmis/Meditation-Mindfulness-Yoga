@@ -69,7 +69,7 @@ nav {
     line-height: 2.5;
 }
 
-section > div {
+section>div {
     margin: 0 1em;
 }
 
@@ -131,9 +131,10 @@ label {
 
 #description {
     font-style: normal;
-    padding: 58px;
     box-sizing: border-box;
     max-width: 600px;
+    min-width: 200px;
+    min-height: 150px;
     resize: none;
     margin-bottom: 15px;
 }
@@ -150,7 +151,7 @@ label {
     border-radius: 20px;
 }
 
-#cover-text > h2 {
+#cover-text>h2 {
     color: #ffffff;
 }
 
@@ -161,8 +162,10 @@ h1 {
     color: #7f5d53;
 }
 
-h1, h2, h3 {
-    align-text: center; 
+h1,
+h2,
+h3 {
+    align-text: center;
 }
 
 
@@ -244,7 +247,9 @@ h1, h2, h3 {
     height: 300px;
 }
 
-#mindtainer, #meditainer, #yogatainer {
+#mindtainer,
+#meditainer,
+#yogatainer {
     justify-content: space-evenly;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
