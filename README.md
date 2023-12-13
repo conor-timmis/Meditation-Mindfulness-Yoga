@@ -187,3 +187,15 @@ Below I will list the extra help sources I have had along the way:
 - My friend [Brad Playdon](https://github.com/bradleyplaydon) when I was stuck trying to fix certain errors along the way
 - My Mentor [Tim Nelson](https://github.com/TravelTimN) especially with Responsiveness on the page
 - Generally [w3schools](https://www.w3schools.com/) if I was lost with which CSS Styles to use as I found it hard to grasp & remember initially with very split work weeks
+
+
+### Content
+
+
+- [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+- [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
+- [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS navbar |
+- [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
+- [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3) | initial footer/header ideas | responsive and clean layout |
+
+
