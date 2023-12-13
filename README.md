@@ -207,3 +207,15 @@ Below I will list the extra help sources I have had along the way:
 - [Hero Image](https://www.pexels.com/photo/unrecognizable-hiker-recreating-near-alpine-lake-during-sunset-4032759/) | index & contact pages | image | hero image background |
 
 
+### Acknowledgements
+
+
+- I would like to thank my good friend, [Brad Playdon](https://github.com/bradleyplaydon) for supporting me in my career development change towards becoming a software developer.
+
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project, especially with responsiveness help.
+
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for their help with troubleshooting issues I had with my project. I would also like to mention the moral support they also gave when I felt overly confused, especially having imposter syndrome.
+
+- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for the content they have created and written for people like me who are new to fully understand how things should be when it comes to coding HTML and CSS in my journey so far.
+
+- I would like to thank my Parents, for believing in me, and allowing me to make this transition into software development.
