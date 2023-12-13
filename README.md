@@ -89,6 +89,6 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
     - The footer makes the end of the page a lot more cleaner and holds the social media icons with corresponding links to each of my own
 
  
-  - **Contact Form**
+- **Contact Form**
 
     - I have created a contact form for the user to be able to get in contact with me with their questions or even issues which helps with user experience once they've taken in the information beforehand
