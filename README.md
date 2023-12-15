@@ -38,23 +38,23 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
 
 ### Mobile Wireframes
 
-  - [Index](documentation/wireframes/mobileindex.png)
+  - ![Index](documentation/wireframes/mobileindex.png)
 
-  - [Contact](documentation/wireframes/mobilecontact.png)
+  - ![Contact](documentation/wireframes/mobilecontact.png)
     
 
 ### Tablet Wireframes
 
-  - [Index](documentation/wireframes/tabletindex.png)
+  - ![Index](documentation/wireframes/tabletindex.png)
 
-  - [Contact](documentation/wireframes/tabletcontact.png)
+  - ![Contact](documentation/wireframes/tabletcontact.png)
 
 
 ### Desktop Wireframes
 
-  - [Index](documentation/wireframes/desktopindex.png)
+  - ![Index](documentation/wireframes/desktopindex.png)
 
-  - [Contact](documentation/wireframes/desktopcontact.png)
+  - ![Contact](documentation/wireframes/desktopcontact.png)
 
 
 ## Features
@@ -115,7 +115,6 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
 - [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
-- [Python](https://www.python.org) used as the back-end programming language.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
@@ -197,20 +196,22 @@ Below I will list the extra help sources I have had along the way:
 
 ### Content
 
-
-- [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-- [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
-- [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS navbar |
-- [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
-- [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3) | initial footer/header ideas | responsive and clean layout |
+| Link | Location | Notes |
+| --- | --- | --- |
+| [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+| [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
+| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS navbar |
+| [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
+| [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3) | initial footer/header ideas | responsive and clean layout |
 
 
 ### Media
 
-
-- [Font Awesome](https://fontawesome.com/) | index & contact pages | icon | Icon for Navbar, headers of paragraphs & footer |
-- [Flaticon](https://www.flaticon.com/free-icon/pebbles_3752894?term=pebbles&page=1&position=26&origin=tag&related_id=3752894) | index & contact pages | image | favicon & logo on all pages |
-- [Hero Image](https://www.pexels.com/photo/unrecognizable-hiker-recreating-near-alpine-lake-during-sunset-4032759/) | index & contact pages | image | hero image background |
+| Link | Location | Type | Notes |
+| --- | --- | :---: | --- |
+| [Font Awesome](https://fontawesome.com/) | index & contact pages | icon | Icon for Navbar, headers of paragraphs & footer |
+| [Flaticon](https://www.flaticon.com/free-icon/pebbles_3752894?term=pebbles&page=1&position=26&origin=tag&related_id=3752894) | index & contact pages | image | favicon & logo on all pages |
+| [Hero Image](https://www.pexels.com/photo/unrecognizable-hiker-recreating-near-alpine-lake-during-sunset-4032759/) | index & contact pages | image | hero image background |
 
 
 ### Acknowledgements
